@@ -1,0 +1,5 @@
+/home/ht/workspace/clion/os_design/BFS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ht/workspace/clion/os_design/BFS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ht/workspace/clion/os_design/BFS/cmake-build-debug/CMakeFiles/ttt.dir
+/home/ht/workspace/clion/os_design/BFS/cmake-build-debug/CMakeFiles/testwrite.dir
+/home/ht/workspace/clion/os_design/BFS/cmake-build-debug/CMakeFiles/BFS.dir

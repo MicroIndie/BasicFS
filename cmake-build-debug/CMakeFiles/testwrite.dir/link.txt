@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/testwrite.dir/test.c.o  -o testwrite  -L/home/ht/workspace/linux/BFS/fuse-3.0.0/lib 

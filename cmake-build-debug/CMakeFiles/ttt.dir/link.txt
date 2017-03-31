@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/ttt.dir/ttt.c.o CMakeFiles/ttt.dir/bfs_functs.c.o CMakeFiles/ttt.dir/disk_util.c.o  -o ttt  -L/home/ht/workspace/linux/BFS/fuse-3.0.0/lib 

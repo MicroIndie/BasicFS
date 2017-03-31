@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/BFS.dir/main.c.o CMakeFiles/BFS.dir/bfs_functs.c.o CMakeFiles/BFS.dir/disk_util.c.o  -o BFS  -L/home/ht/workspace/linux/BFS/fuse-3.0.0/lib 
